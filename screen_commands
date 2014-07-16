@@ -1,0 +1,9 @@
+screen commands
+help: ctrl+t ctrl+?
+
+go to right screen: ctrl+t +j
+go to right screen: ctrl+t +u
+go to numbered screen: ctrl+t +num
+create screen: ctrl+t 
+close tab: ctrl+d
+open tab: ctrl+t +c
